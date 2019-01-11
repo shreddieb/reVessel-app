@@ -1,6 +1,8 @@
 {
   "name": "reVesselApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d8188f4d"
 }
