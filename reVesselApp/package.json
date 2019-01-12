@@ -76,7 +76,7 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-ionic": {
-        "APP_ID": "d8188f4d",
+        "APP_ID": "9275fbd3",
         "CHANNEL_NAME": "Production",
         "UPDATE_METHOD": "background",
         "UPDATE_API": "https://api.ionicjs.com",

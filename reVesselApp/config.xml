@@ -85,7 +85,7 @@
     <engine name="ios" spec="~4.5.5" />
     <engine name="android" spec="~7.1.4" />
     <plugin name="cordova-plugin-ionic" spec="5.2.10">
-        <variable name="APP_ID" value="d8188f4d" />
+        <variable name="APP_ID" value="9275fbd3" />
         <variable name="CHANNEL_NAME" value="Production" />
         <variable name="UPDATE_METHOD" value="background" />
         <variable name="UPDATE_API" value="https://api.ionicjs.com" />
